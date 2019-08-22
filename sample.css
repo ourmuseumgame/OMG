@@ -5,6 +5,8 @@
     }
 
   .homepage {
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
     color: white;
     font-family: monospace;
     display: flex;
