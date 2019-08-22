@@ -1,7 +1,7 @@
 /* The # is used for ids. */
 
 #homepage{
-    background-color: #777777;
+    background-image: url('omg.jpg');
     background-size: cover;
     background-attachment: fixed;
     }
@@ -12,7 +12,7 @@
 
 /* This is used to center the text on the page. */
   .homepage {
-    color: darkseagreen;
+    color: black;
     font-family: monospace;
     display: flex;
     flex-direction: column;
