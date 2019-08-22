@@ -1,7 +1,7 @@
 /* The # is used for ids. */
 
 #homepage{
-    background-color: black;
+    background-color: url('omg.jpg');
     background-size: cover;
     background-attachment: fixed;
     }
